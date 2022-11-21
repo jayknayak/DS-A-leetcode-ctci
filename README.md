@@ -1,5 +1,5 @@
 # DS-A-leetcode-ctci
-DS&amp;A Problems of Leetcode and Cracking the Coding Interview.
+DS&amp;A Problems of Leetcode and Cracking the Coding Interview - <b>Solutions</b>.
 
 ---
 Covers the following DS&A types:
