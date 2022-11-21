@@ -2,6 +2,17 @@
 DS&amp;A Problems of Leetcode and Cracking the Coding Interview.
 
 ---
+Covers the following DS&A types:
+* Array
+* Strings
+* LinkedList
+* Trees
+* Graphs
+* Dynamic Programming (DP)
+* Backtracking
+* Sorting & Searching
+* Others
+---
 Includes the problem solving of the <b>Leetcode</b> problems at Easy and Medium difficulty levels.
 Find the problem statements here:
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/
